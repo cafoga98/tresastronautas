@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689824491931",
+    "firebase_url": "https://friendlyeats-a682e.firebaseio.com",
+    "project_id": "friendlyeats-a682e",
+    "storage_bucket": "friendlyeats-a682e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689824491931:android:3a0e40880c9f5535d0993e",
+        "android_client_info": {
+          "package_name": "com.cafoga.tresastronautas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689824491931-tcp2ll70phukugrehv49u8r65kvmani6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDMdvaSZrLvLggBrFJPwZXdH3uds7t9h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689824491931-tcp2ll70phukugrehv49u8r65kvmani6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "689824491931-s2aebdi4tlvjtp17krkf319gu04pka3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cafoga.tresastronautas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
